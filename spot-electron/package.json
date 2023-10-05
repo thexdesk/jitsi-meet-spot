@@ -27,7 +27,7 @@
         "babel-eslint": "10.0.3",
         "devtron": "1.4.0",
         "dotenv": "8.1.0",
-        "electron": "5.0.3",
+        "electron": "22.3.25",
         "electron-builder": "20.43.0",
         "electron-notarize": "0.1.1",
         "electron-rebuild": "1.8.5",
