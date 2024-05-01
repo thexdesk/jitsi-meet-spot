@@ -28,7 +28,7 @@
         "devtron": "1.4.0",
         "dotenv": "8.1.0",
         "electron": "5.0.3",
-        "electron-builder": "20.43.0",
+        "electron-builder": "24.13.3",
         "electron-notarize": "0.1.1",
         "electron-rebuild": "1.8.5",
         "eslint": "6.6.0",
