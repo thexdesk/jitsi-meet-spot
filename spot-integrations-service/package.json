@@ -10,10 +10,10 @@
         "envalid": "6.0.0",
         "express": "4.17.1",
         "express-prom-bundle": "5.1.5",
-        "express-validator": "6.3.0",
+        "express-validator": "6.10.1",
         "fetch-retry": "2.2.3",
         "js-base64": "2.5.1",
-        "jsonwebtoken": "8.5.1",
+        "jsonwebtoken": "9.0.2",
         "node-cache": "5.1.0",
         "prom-client": "11.5.3",
         "sha256": "0.2.0"
