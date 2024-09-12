@@ -4,11 +4,11 @@
     "main": "src/server.js",
     "dependencies": {
         "aws-sdk": "2.597.0",
-        "body-parser": "1.19.0",
+        "body-parser": "1.20.3",
         "cors": "2.8.5",
         "crypto-js": "3.1.9-1",
         "envalid": "6.0.0",
-        "express": "4.17.1",
+        "express": "4.21.0",
         "express-prom-bundle": "5.1.5",
         "express-validator": "6.3.0",
         "fetch-retry": "2.2.3",
