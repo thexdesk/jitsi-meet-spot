@@ -14,7 +14,7 @@
         "fetch-retry": "2.2.3",
         "js-base64": "2.5.1",
         "jsonwebtoken": "8.5.1",
-        "node-cache": "5.1.0",
+        "node-cache": "5.1.2",
         "prom-client": "11.5.3",
         "sha256": "0.2.0"
     },
