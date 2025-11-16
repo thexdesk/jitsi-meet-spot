@@ -35,7 +35,7 @@
         "react-native-keep-awake": "4.0.0",
         "react-native-push-notification": "github:zo0r/react-native-push-notification#4e53d8cbbf5fe0f623b3ca6b58e0ef097834b48b",
         "react-native-svg": "9.13.6",
-        "react-native-svg-transformer": "0.14.3",
+        "react-native-svg-transformer": "0.20.0",
         "react-redux": "7.1.3",
         "redux": "4.0.5",
         "url": "0.11.0"
