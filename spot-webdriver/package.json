@@ -8,7 +8,7 @@
         "@wdio/spec-reporter": "5.16.11",
         "@wdio/sync": "5.17.0",
         "babel-eslint": "10.0.3",
-        "eslint": "6.8.0",
+        "eslint": "10.1.0",
         "eslint-config-jitsi": "github:jitsi/eslint-config-jitsi#f9ec185a0f3d7ad39226c59ab01251c87e000c5b",
         "eslint-loader": "3.0.3",
         "eslint-plugin-flowtype": "4.5.2",
